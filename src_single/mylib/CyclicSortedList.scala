@@ -1,3 +1,5 @@
+package mylib
+
 class CyclicSortedList
 {
 	private var currentNode:Node = _

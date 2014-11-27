@@ -1,4 +1,6 @@
-object Main
+import mylib.CyclicSortedList
+
+object CyclicSortedListInsert
 {
 	def main(args:Array[String])
 	{
