@@ -1,0 +1,6 @@
+1. Compile mylib
+scalac mylib/*
+
+2. Run scala with classpath
+scala -cp . xxx.scala
+
